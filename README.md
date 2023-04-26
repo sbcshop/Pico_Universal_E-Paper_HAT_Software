@@ -31,10 +31,10 @@ This Universal ePaper HAT is equipped with additional GPIO pins which can be pro
 
 ### Example Codes
    Depending upon which E-paper you are using, Follow corresponding tutorial to work with E-paper
-   Click Here - to use with 2.9" E-paper
-   Click Here - to use with 4.2" E-paper
-   Click Here - to use with 5.83" E-paper
-   Click Here - to use with 7.5" E-paper
+   - [Click Here](https://github.com/sbcshop/EnkPi_2.9_Software) - to use with 2.9" E-paper
+   - [Click Here](https://github.com/sbcshop/EnkPi_4.2_Software) - to use with 4.2" E-paper
+   - [Click Here](https://github.com/sbcshop/EnkPi_5.83_Software) - to use with 5.83" E-paper
+   - [Click Here](https://github.com/sbcshop/EnkPi_7.5_Software) - to use with 7.5" E-paper
    
    Now you are ready to try out your own codes, **_Happy Coding!_**
 
