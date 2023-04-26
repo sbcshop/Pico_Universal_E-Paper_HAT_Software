@@ -46,16 +46,9 @@ This Universal ePaper HAT is equipped with additional GPIO pins which can be pro
 
 
 ## Related Products
-   ![EnkPi2_9]()
    * [EnkPi 2.9"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297401427) - EnkPi with 2.9" E-paper display size
-   
-   ![EnkPi4_2]() 
    * [EnkPi 4.2"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 4.2" E-paper display size
-   
-   ![EnkPi5_83]()
    * [EnkPi 5.83"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297466963) - EnkPi with 5.83" E-paper display size
- 
-   ![EnkPi7_5]()
    * [EnkPi 7.5"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297499731) - EnkPi with 7.5" E-paper display size
  
 ## Product License
