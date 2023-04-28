@@ -42,6 +42,8 @@ This Universal ePaper HAT is equipped with additional GPIO pins which can be pro
    Now you are ready to try out your own codes, **_Happy Coding!_**
 
 ## Documentation
+  * [Schematic](https://github.com/sbcshop/Pico_Universal_E-Paper_HAT_Hardware/blob/main/Design%20Data/SCH%20PICO_Universal%20E-Paper%20HAT_V1.0.pdf)
+  * [Hardware Files](https://github.com/sbcshop/Pico_Universal_E-Paper_HAT_Hardware)
   * [MicroPython getting started for RPI](https://docs.micropython.org/en/latest/rp2/quickref.html)
   * [RP2040 Datasheet](https://github.com/sbcshop/HackyPi-Hardware/blob/main/Documents/rp2040-datasheet.pdf)
 
