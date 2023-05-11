@@ -1,6 +1,6 @@
 # Pico_Universal_E-Paper_HAT_Software
 
-Universal ePaper HAT is based on the Raspberry Pi Pico W which can be attached to any sizes of E-Paper screens ranging from 2.9", 4.2", 5.83" & 7.5".
+Universal ePaper HAT is based on the Raspberry Pi Pico W which can be use to attached any sizes of E-Paper screens.
 It has dual clips - on top and bottom side of the HAT to attach a display of any dimensions.
 
 <img src="https://github.com/sbcshop/Pico_Universal_E-Paper_HAT_Software/blob/main/images/universal_epaper_hat.gif" />
